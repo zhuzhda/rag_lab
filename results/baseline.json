@@ -2882,6 +2882,6 @@
     "backend": "tfidf",
     "chunk_size": 120,
     "overlap": 20,
-    "questions": "C:\\Users\\1\\Desktop\\Локальный запуск VitrHelp 1409\\rag_lab\\data\\dev_questions.json"
+    "questions": "/home/zhuzhda/rag_lab/data/dev_questions.json"
   }
 }
