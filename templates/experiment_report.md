@@ -100,7 +100,7 @@ python experiments/changed_output.py
 
 ## Анализ ошибок
 
-[templates/error_analysis.csv](templates/error_analysis.csv)
+[templates/error_analysis.csv](error_analysis.csv)
 
 ## Вывод
 
